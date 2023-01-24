@@ -1,6 +1,8 @@
 # LibriVoc-Dataset
 LibriVoc is a new open-source, large-scale dataset for vocoder artifact detection. LibriVoc is derived from the LibriTTS speech corpus, which is widely used in text-to-speech research. The LibriTTS corpus is derived from the Librispeech dataset, wherein each sample is extracted from LibriVox audiobooks.
+
 The Dataset could be view or download from :https://drive.google.com/file/d/1JwxyWK52zSu96S1PEqmh59bttu3uHWrW/view?usp=share_link
+
 We use six state-of-the-art neural vocoders to generate speech samples in the LibriVoc dataset, namely, WaveNet and WaveRNN from the autoregressive vocoders, Mel-GAN and Parallel WaveGAN from the GAN-based vocoders, and WaveGrad and DiffWave from the diffusion-based vocoders. Specifically, we have 126.41 hours of real samples and 118.08 hours of synthesized, self-vocoded samples in the training set. Table 1 shows the details of the LibriVoc dataset.
 
 Table 1. The number of hours of audio synthesized by each neural vocoder in the LibriVoc dataset.
