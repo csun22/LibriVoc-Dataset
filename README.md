@@ -4,7 +4,7 @@
 
 LibriVoc is an open-source, large-scale dataset designed for vocoder artifact detection in synthesized speech. Built upon the LibriTTS speech corpus—a widely-used resource in text-to-speech research derived from LibriVox audiobooks—LibriVoc provides a comprehensive benchmark for evaluating and detecting synthetic speech artifacts.
 
-**Dataset Access:** [Download from Google Drive](https://drive.google.com/file/d/1Zh6b51S1WIsFjdCDRTQhYW61CQ0Ue1lk/view)
+**Dataset Access:** [Download from Google Drive](https://drive.google.com/file/d/1aMU-MQ8vFu3LgOOKeb7qxiGANBKKTo18/view?usp=drive_link)
 
 ## Dataset Composition
 
